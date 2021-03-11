@@ -1,0 +1,37 @@
+{
+    "asset": {
+        "data": {
+            "datetime": "Wed Mar 10 2021 21:55:17 GMT-0300 (Horário Padrão de Brasília)",
+            "message": "FabrikaBrIO Inovação e Tecnologia"
+        }
+    },
+    "id": "caedb4a62b4bcb84f7e8c441dbcfe045c1921f2dd6e1020f317fbdda2d8e75da",
+    "inputs": [
+        {
+            "fulfillment": "pGSAIJH9-67cdHAtHnJ7Fciq7Gfy6c6qYPMjXWt_dHFLGbI5gUAWSUK-vqJS31ZqtXL-83OjCpVoWUMvBPXVjhPlogFrmsApFxNXjJj8WirEyOX_ffno38yfbpvARUt4-3Ky9E4B",
+            "fulfills": null,
+            "owners_before": [
+                "Aptjvrza1feQ4V3iCH3TnfBUjzKA789dDDvx846QubRJ"
+            ]
+        }
+    ],
+    "metadata": {
+        "what": "IPDB test network transaction"
+    },
+    "operation": "CREATE",
+    "outputs": [
+        {
+            "amount": "1",
+            "condition": {
+                "details": {
+                    "public_key": "Aptjvrza1feQ4V3iCH3TnfBUjzKA789dDDvx846QubRJ",
+                    "type": "ed25519-sha-256"
+                },
+                "uri": "ni:///sha-256;6429C8vu1y2RrZlSkNu9ecIhlSAD0qTH3ndQCTJ7Heg?fpt=ed25519-sha-256&cost=131072"
+            },
+            "public_keys": [
+                "Aptjvrza1feQ4V3iCH3TnfBUjzKA789dDDvx846QubRJ"
+            ]
+        }
+    ],
+    "version": "2.0
