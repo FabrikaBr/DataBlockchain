@@ -1,2 +1,41 @@
 # DataBlockchain
 Test for Bigchain BD
+
+{
+    "asset": {
+        "data": {
+            "datetime": "Wed Oct 20 2021 16:56:21 GMT-0300 (Horário Padrão de Brasília)",
+            "message": "FabrikaBr, the first transaction one never forgets ;-)"
+        }
+    },
+    "id": "0426f8fa76c38980fb559d284cd4cda7ff308716bf15483ce673e67038eb4bfa",
+    "inputs": [
+        {
+            "fulfillment": "pGSAIJxarvfAEMqjrw15vALJ45uEcESQk8RIcvG5ntiLHUP5gUASSzFLKUV1nZ-utlSVD0rtjfSTxMYXWmAIC6BusupeGQGwQLePG9EmVrIqg-r7wiS7MMWD74nuubnvtV1fyy8P",
+            "fulfills": null,
+            "owners_before": [
+                "BXLoW9qjsDiRornPZsVPY1m1PMuXPiY2crsFPvtE2MmS"
+            ]
+        }
+    ],
+    "metadata": {
+        "what": "IPDB test network transaction"
+    },
+    "operation": "CREATE",
+    "outputs": [
+        {
+            "amount": "1",
+            "condition": {
+                "details": {
+                    "public_key": "BXLoW9qjsDiRornPZsVPY1m1PMuXPiY2crsFPvtE2MmS",
+                    "type": "ed25519-sha-256"
+                },
+                "uri": "ni:///sha-256;LklNyPG9bpUBw7KnDEZ2sF9rB0NC3QLEhqgty7zVJOw?fpt=ed25519-sha-256&cost=131072"
+            },
+            "public_keys": [
+                "BXLoW9qjsDiRornPZsVPY1m1PMuXPiY2crsFPvtE2MmS"
+            ]
+        }
+    ],
+    "version": "2.0"
+}
